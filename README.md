@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ***Internet Computer*** (Dfinity).
 - 🌱 I’m currently learning **Blockchain full stack development**.
 - 👯 I’m looking to collaborate on **ICP** developing.
-- 📫 [How to reach me](xiaoyuanxun.icp.page)
+- 📫 [How to reach me](https://xiaoyuanxun.icp.page/)
